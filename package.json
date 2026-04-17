@@ -1,0 +1,11 @@
+{
+  "name": "web-app-template",
+  "version": "1.0.0",
+  "description": "Simple HTML/CSS/JS app with basic testing",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
